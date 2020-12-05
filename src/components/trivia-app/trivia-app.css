@@ -1,0 +1,10 @@
+.trivia-app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.quiz-img {
+  height: 300px;
+  pointer-events: none;
+}

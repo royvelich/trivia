@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import TriviaApp from './components/trivia-app/trivia-app';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <TriviaApp />
   </React.StrictMode>,
   document.getElementById('root')
 );

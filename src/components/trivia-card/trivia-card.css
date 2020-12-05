@@ -1,0 +1,23 @@
+.trivia-card {
+    background-color: white;
+    width: 40%;
+    margin: 20px;
+    border: solid rgb(193, 52, 62);
+    border-width: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-image {
+    width: 300px;
+    align-self: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.card-answers {
+    margin: 30px;
+}
